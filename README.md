@@ -1,8 +1,8 @@
 # SRI
 Smart Roadside Initiative (SRI) is a suite of applications used by law enforcement to monitor commercial motor vehicle (CMV) activity coming through the weigh stations. There are 6 applications in the suite. The systems are too vast to go in to great detail within a read me file so links to the extensive documention will be provided in the repositories main page.
 
-# DashCon
-SRI Enforcement Web Application User Interface
+# SRI Android Mobile Application
+Android mobile application for truck drivers that submits SRI required information to the SRI Server.
 
 ## System Requirements
 - Android Development Studio
