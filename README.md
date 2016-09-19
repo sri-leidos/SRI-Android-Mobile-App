@@ -1,4 +1,4 @@
-# SRI Android Mobile Application
+# SRI Android Mobile App Cellular
 Android mobile application for truck drivers that submits SRI required information to the SRI Server.
 
 ## System Requirements
